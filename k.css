@@ -1,0 +1,11 @@
+body{
+    background-color: deeppink;
+    color: aliceblue;
+}
+h1{
+    display: inline-block;
+}
+.di{
+    padding: 15rem;
+    text-align: center;
+}
