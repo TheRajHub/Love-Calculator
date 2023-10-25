@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(203, 98, 180);
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+form{
+    position: relative;
+    top: 8rem;
+    text-align: center;
+    background-color: rgba(207, 39, 101, 0.87);
+    padding: 100px;
+    border-radius: 10px;
+    
+}
+form>input{
+    background-color: aliceblue;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 5px;
+}
+form>h1{
+    background-color: rgba(207, 39, 101, 0.87);
+    color: beige;
+    font-style: italic;
+    font-size: 50px;
+}
